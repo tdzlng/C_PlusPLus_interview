@@ -798,7 +798,7 @@ int main()
 
 Object-oriented programming (OOP) is a model of program programming with object concepts, and it is also an abstract approach to program development.
 
-![Object-oriented features](https://raw.githubusercontent.com/huihut/interview/master/images/面向对象基本特征.png)
+![Object-oriented features](https://github.com/tdzlng/C_PlusPLus_interview/master/images/OOP.png)
 
 Three Object-Oriented Features-Encapsulation, Inheritance, and Polymorphism
 
