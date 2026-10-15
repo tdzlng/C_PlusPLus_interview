@@ -1,4 +1,4 @@
-<div align="center">
+<img width="379" height="279" alt="image" src="https://github.com/user-attachments/assets/4218b741-8d53-42c0-af43-33e5aa3baafb" /><div align="center">
 📖 Github
 &emsp;&emsp; | &emsp;&emsp;
 <a href="https://interview.huihut.com">📚 Docsify</a>
@@ -798,7 +798,7 @@ int main()
 
 Object-oriented programming (OOP) is a model of program programming with object concepts, and it is also an abstract approach to program development.
 
-![Object-oriented features](https://raw.githubusercontent.com/huihut/interview/master/images/面向对象基本特征.png)
+![Object-oriented features](images/OOP.png)
 
 Three Object-Oriented Features-Encapsulation, Inheritance, and Polymorphism
 
